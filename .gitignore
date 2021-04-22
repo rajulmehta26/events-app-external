@@ -1,0 +1,5 @@
+logs
+*.log
+npm-debug.log*git init
+node_modules/
+.nyc_output/
